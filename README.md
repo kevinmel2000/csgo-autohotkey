@@ -12,4 +12,4 @@ Autofire is not practical for competitive gameplay but it's fun to mess around w
 
 *right click the script and run it
 ### needs
-*[auto hoy key](https://autohotkey.com/)
+*[autohotkey](https://autohotkey.com/)
