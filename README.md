@@ -8,8 +8,14 @@ Use for practice and consider using scroll wheel once you master strafing.
 Autofire is not practical for competitive gameplay but it's fun to mess around with. 
 
 ### use
-*install auto hot key
 
 *right click the script and run it
+
+| bhop.ahk  |   |
+|---|---|
+|  F11  | toggles script  |
+|  F6   | exits script  |
+
+
 ### needs
 *[autohotkey](https://autohotkey.com/)
