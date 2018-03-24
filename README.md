@@ -8,7 +8,7 @@ Use for practice and consider using scroll wheel once you master strafing.
 Autofire is not practical for competitive gameplay but it's fun to mess around with.
 
 #### TODO
- - [ ] remove recoild control for COD4, not needed in CSGO
+ - [ ] remove recoil control for COD4, not needed in CSGO
 
 #### needs
 [autohotkey](https://autohotkey.com/)
